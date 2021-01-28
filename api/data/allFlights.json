@@ -1,0 +1,94 @@
+{
+    "flights": [
+        {
+            "name": "Flight 1 to Seville",
+            "capacity": 1,
+            "isAvailable": true,
+            "location": "Seville"
+        },
+        {
+            "name": "Flight 2 to Berlin",
+            "capacity": 3,
+            "isAvailable": true,
+            "location": "Berlin"
+        },
+        {
+            "name": "Flight 3 to Sicily",
+            "capacity": 5,
+            "isAvailable": true,
+            "location": "Sicily"
+        },
+        {
+            "name": "Flight 5 to Seville",
+            "capacity": 1,
+            "isAvailable": true,
+            "location": "Seville"
+        },
+        {
+            "name": "Flight 6 to Berlin",
+            "capacity": 4,
+            "isAvailable": true,
+            "location": "Berlin"
+        },
+        {
+            "name": "Flight 7 to Sicily",
+            "capacity": 2,
+            "isAvailable": true,
+            "location": "Sicily"
+        },
+        {
+            "name": "Flight 8 to Seville",
+            "capacity": 1,
+            "isAvailable": true,
+            "location": "Seville"
+        },
+        {
+            "name": "Flight 9 to Berlin",
+            "capacity": 6,
+            "isAvailable": true,
+            "location": "Berlin"
+        },
+        {
+            "name": "Flight 10 to Sicily",
+            "capacity": 1,
+            "isAvailable": true,
+            "location": "Sicily"
+        },
+        {
+            "name": "Flight 11 to Seville",
+            "capacity": 5,
+            "isAvailable": true,
+            "location": "Seville"
+        },
+        {
+            "name": "Flight 12 to Berlin",
+            "capacity": 4,
+            "isAvailable": true,
+            "location": "Berlin"
+        },
+        {
+            "name": "Flight 13 to Sicily",
+            "capacity": 3,
+            "isAvailable": true,
+            "location": "Sicily"
+        },
+        {
+            "name": "Flight 14 to Seville",
+            "capacity": 2,
+            "isAvailable": true,
+            "location": "Seville"
+        },
+        {
+            "name": "Flight 15 to Berlin",
+            "capacity": 1,
+            "isAvailable": true,
+            "location": "Berlin"
+        },
+        {
+            "name": "Flight 16 to Sicily",
+            "capacity": 5,
+            "isAvailable": true,
+            "location": "Sicily"
+        }
+    ]
+}
