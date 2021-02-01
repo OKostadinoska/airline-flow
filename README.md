@@ -1,6 +1,6 @@
 #run docker-compose.yml 
 
-1.install docker compose (https://docs.docker.com/compose/install/)
+1. install docker compose (https://docs.docker.com/compose/install/)
 2. run docker-compose up from root directory
 
 #run clinet file
